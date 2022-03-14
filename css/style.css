@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/ramadan.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+.div-bg{
+    background-color: rgba(54, 53, 53, 0.336);
+    color: #fff;
+}
